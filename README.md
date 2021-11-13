@@ -18,3 +18,5 @@ It is very exiciting project for image processing.It uses various libraries such
 4. Currently volume works only on Linux.Needs to be activated for other platforms too.Volume will not work on Windows and working on MacOS is not determined.
 
 # Tested on Manjaro Linux with Linux Kernel 5.10
+
+Tune in with different values for constant threshold and finger distances for changing the accuracy and sensitivity.
